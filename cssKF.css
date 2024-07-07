@@ -1,0 +1,62 @@
+.Buttons1 { /* class for Buttons on website */
+	
+	background-color: #9999FF; /* Purple */
+	border: none;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	font-size: 16px;
+	cursor: pointer;
+	
+}
+
+.Buttons2 { /* class for Logo */
+	
+	background-color: #ffffff; /* White */
+	border: none;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	padding: 0px;
+	border-radius: 20px;
+	cursor: pointer;
+  
+}
+
+
+
+
+
+
+body {
+	
+	margin: 0px;
+	
+}
+
+
+
+
+
+
+#UpContent {
+	
+	height: 120px;
+	
+}
+
+#Logo1Up {
+	
+	float: left;
+	padding: 5px;
+	
+}
+
+#RedirectionUp {
+	
+	float: left;
+	background-color: gray;
+	height: 120px;
+	width: 1800px;
+	
+}
